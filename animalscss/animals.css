@@ -1,0 +1,66 @@
+
+
+body {
+    background-color: #FFE4B5;
+}
+
+#Anabşlk {
+    color: #708090;
+    font-size: 60px;
+    font-family: "Brush Script MT", cursive;
+    text-align: center;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #F4A460,
+        0 0 82px #F4A460,
+        0 0 92px #F4A460,
+        0 0 102px #F4A460,
+        0 0 151px #F4A460;
+    ;
+}
+
+.Altbşlk{
+    color: #708090;
+    font-size: 43px;
+    font-family: "Brush Script MT", cursive;
+    text-shadow:
+        0 0 7px #fff,
+        0 0 10px #fff,
+        0 0 21px #fff,
+        0 0 42px #F4A460,
+        0 0 82px #F4A460,
+        0 0 92px #F4A460,
+        0 0 102px #F4A460,
+        0 0 151px #F4A460;
+    ;
+}
+
+.par{
+    font-size: 15px;
+    color: #708090;
+}
+
+.ort{
+    text-align: center;
+}
+
+.pre{
+    color:#663399;
+    font-size: 13.5px;
+    font-family: Monospace;
+}
+.p{
+    color: #025464;
+    font-size: 20px;
+    font-family: Franklin Gothic Medium;
+}
+
+.sağ{
+    width: 1600px;
+    margin: auto;
+}
+.sol{
+    float: left;
+}
